@@ -6,6 +6,7 @@ import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/about.png";
 import Toolstack from "./Toolstack";
+import { Trans } from "react-i18next";
 
 function About() {
   return (
@@ -22,7 +23,9 @@ function About() {
             }}
           >
             <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
-              Know Who <strong className="purple">I'M</strong>
+              <Trans i18nKey="aboutTitle">
+                Who <strong className="purple">am</strong> I ?
+              </Trans>
             </h1>
             <Aboutcard />
           </Col>
@@ -35,17 +38,19 @@ function About() {
           </Col>
         </Row>
         <h1 className="project-heading">
-          Professional <strong className="purple">Skillset </strong>
+          <Trans i18nKey="aboutSkillTitle">
+            Professional <strong className="purple">skills </strong>
+          </Trans>
         </h1>
 
         <Techstack />
 
         <h1 className="project-heading">
-          <strong className="purple">Tools</strong> I use
+          <Trans i18nKey="aboutToolsTitle">
+            My <strong className="purple">toolbox</strong>
+          </Trans>
         </h1>
         <Toolstack />
-
-        <Github />
       </Container>
     </Container>
   );

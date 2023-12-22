@@ -1,0 +1,18 @@
+{
+    "projectsTitle": "My Recent <1>Works</1>",
+    "projectsSubTitle": "Here are a few projects I've worked on recently.",
+    "aboutTitle": "Who <1>am</1> I ?",
+    "aboutSkillTitle": "Professional <1>skills</i>",
+    "aboutToolsTitle": "My <1>toolbox</1>",
+    "aboutMeText": "I am <1>Rabie</1> Toaba, currently based in <1>Le Havre, France</1>. <2/> A developer with 4-years experience in <1>backend web development</1>, with experience in <1>Mobile, Cloud</1> & <1>DevOps</1>.<2/>I am currently open to freelance missions, do not hesitate to reach out to me. (:",
+    "homePageHello": "Hello !",
+    "homePageIam": "I AM",
+    "name": "RABIE TOABA",
+    "typeSoftwareDeveloper": "Software developer",
+    "typeFreelancer": "Freelancer",
+    "typeBackendDeveloper": "Backend developer",
+    "typeCloudArchitect": "Cloud architect",
+    "homeIntroductionTitle": "LEARN ABOUT <1>ME</1>",
+    "homeIntroductionContent": "I am a 21yo passionate developer who has always messed around computers since a very young age. <1/> My first interaction with coding was with Minecraft plugins using Java. <3/> Currently, my main stack is <5>Golang, React & AWS.</5> I also use <7>Wordpress</7>. <9/> My current interest is to build solutions that contribute to logistics and climate change."
+
+}
