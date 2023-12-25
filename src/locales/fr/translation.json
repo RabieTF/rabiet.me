@@ -1,6 +1,24 @@
 {
-    "welcome": "Welcome to Our Website",
-    "hello": "Hello",
-    "projectsTitle": "My Recent <strong className=\"purple\">Works</strong>",
-    "projectsSubTitle": "Here are a few projects I've worked on recently."
+    "projectsTitle": "Mes dernières <1>œuvres</1>",
+    "projectsSubTitle": "Voici quelques projets sur lesquels j'ai récemment travaillé.",
+    "aboutTitle": "Qui <1>suis-je</1> ?",
+    "aboutSkillTitle": "Compétences <1>professionnelles</1>",
+    "aboutToolsTitle": "Ma <1>boîte à outils</1>",
+    "aboutMeText": "Je suis <1>Rabie</1> Toaba, actuellement basé au <3>Havre, France</3>. <5/> Développeur avec 4 ans d'expérience en <7>développement web backend</7>, et compétences en <9>Mobile, Cloud</9> et <11>DevOps</11>.<13/>Je suis actuellement disponible pour des missions en freelance, n'hésitez pas à me contacter. (:",    "homePageHello": "Bonjour !",
+    "homePageIam": "JE SUIS",
+    "name": "RABIE TOABA",
+    "typeSoftwareDeveloper": "Développeur logiciel",
+    "typeFreelancer": "Freelance",
+    "typeBackendDeveloper": "Développeur backend",
+    "typeCloudArchitect": "Architecte cloud",
+    "homeIntroductionTitle": "DÉCOUVREZ <1>QUI JE SUIS</1>",
+    "homeIntroductionContent": "Je suis un développeur passionné de 21 ans qui a toujours été fasciné par les ordinateurs depuis mon plus jeune âge. <1/> Ma première interaction avec la programmation a été avec les plugins Minecraft en Java. <3/> Actuellement, mon stack principal est <5>Golang, React & AWS.</5> J'utilise également <7>Wordpress</7>. <9/> Mon intérêt actuel est de construire des solutions contribuant à la logistique et au changement climatique.",
+    "downloadCvButton": "Télécharger le CV",
+    "homeLink": "Accueil",
+    "aboutLink": "À propos",
+    "projectsLink": "Projets",
+    "resumeLink": "CV",
+    "findMeText": "RETROUVEZ-MOI SUR",
+    "feelFreeText": "N'hésitez pas à <1>me contacter</1>",
+    "creditsText": "Conçu et développé par Soumyajit Behera, modifié par Rabie Toaba."
 }
