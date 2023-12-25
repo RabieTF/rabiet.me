@@ -12,9 +12,9 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             <Trans i18nKey='aboutMeText'>
-                I am <span className="purple">Rabie</span> Toaba, currently based in <span className="purple">Le Havre, France</span>. 
+                I am <span className="blue">Rabie</span> Toaba, currently based in <span className="blue">Le Havre, France</span>. 
                 <br />
-                A developer with 4-years experience specialised in <span className="purple">backend web development</span>, with experience in <span className="purple">Mobile, Cloud</span> & <span className="purple">DevOps</span>.
+                A developer with 4-years experience specialised in <span className="blue">backend web development</span>, with experience in <span className="blue">Mobile, Cloud</span> & <span className="blue">DevOps</span>.
                 <br />
                 I am currently open to freelance missions, do not hesitate to reach out to me. (:
             </Trans>

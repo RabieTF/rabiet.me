@@ -20,7 +20,7 @@ function Projects() {
       <Container>
         <h1 className="project-heading">
           <Trans i18nKey="projectsTitle">
-            My Recent <strong className="purple">Works</strong>
+            My Recent <strong className="blue">Works</strong>
           </Trans> 
         </h1>
         <p style={{ color: "white" }}>

@@ -27,7 +27,7 @@ function About() {
           >
             <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
               <Trans i18nKey="aboutTitle">
-                Who <strong className="purple">am</strong> I ?
+                Who <strong className="blue">am</strong> I ?
               </Trans>
             </h1>
             <Aboutcard />
@@ -42,7 +42,7 @@ function About() {
         </Row>
         <h1 className="project-heading">
           <Trans i18nKey="aboutSkillTitle">
-            Professional <strong className="purple">skills </strong>
+            Professional <strong className="blue">skills </strong>
           </Trans>
         </h1>
 
@@ -50,7 +50,7 @@ function About() {
 
         <h1 className="project-heading">
           <Trans i18nKey="aboutToolsTitle">
-            My <strong className="purple">toolbox</strong>
+            My <strong className="blue">toolbox</strong>
           </Trans>
         </h1>
         <Toolstack />
