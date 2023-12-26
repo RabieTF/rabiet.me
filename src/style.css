@@ -8,10 +8,10 @@ html {
   --image-gradient: linear-gradient(
     to bottom left,
     rgba(17, 16, 16, 0.678),
-    rgba(12, 10, 22, 0.863)
+    rgba(12, 10, 50, 0.863)
   );
 
-  --imp-text-color: #7270f0;
+  --imp-text-color: #5f88f8;
 }
 
 .blue {
@@ -257,7 +257,7 @@ button:focus {
 .home-section {
   position: relative;
   z-index: -1;
-  background-image: var(--image-gradient), url(./Assets/home-bg.jpg);
+  background-image: url('Assets/home-bg1.jpg');
   background-position: top center;
   background-repeat: no-repeat;
   padding-bottom: 30px !important;
@@ -286,12 +286,12 @@ button:focus {
 
 .Typewriter__wrapper {
   font-size: 2.2em !important;
-  color: #766adf !important;
+  color: #5f88f8 !important;
   font-weight: 600 !important;
 }
 .Typewriter__cursor {
   font-size: 2.4em !important;
-  color: #6a62d6 !important;
+  color: #5f88f8 !important;
 }
 
 @media (max-width: 767px) {
@@ -321,6 +321,7 @@ button:focus {
   position: relative;
   padding-bottom: 70px !important;
   padding-top: 70px !important;
+  
 }
 
 .home-about-description {
