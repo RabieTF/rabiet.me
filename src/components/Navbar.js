@@ -12,6 +12,7 @@ import {
 } from "react-icons/ai";
 import { CgFileDocument } from "react-icons/cg";
 import { useTranslation } from "react-i18next";
+import useAnalyticsTracker from "../useAnalayticsTracker";
 
 function NavBar() {
   const [expand, updateExpanded] = useState(false);
@@ -34,6 +35,7 @@ function NavBar() {
   window.addEventListener("scroll", scrollHandler);
 
 
+  const gaEventTracker = useAnalyticsTracker('Booking');
 
   return (
     <Navbar
@@ -99,8 +101,9 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://facebook.com"
+                href="https://calendly.com/rabiet"
                 target="_blank"
+                onClick={() => gaEventTracker("Booking link", "Clicked on booking link")}
               >
                 <AiOutlineCalendar style={{ marginBottom: "2px" }}/>{" "} {t('bookText')}
               </Nav.Link>

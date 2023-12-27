@@ -16,9 +16,13 @@ import ScrollToTop from "./components/ScrollToTop";
 import "./style.css";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
+import ReactGa from 'react-ga';
 
 function App() {
   const [load, upadateLoad] = useState(true);
+
+  const TRACKING_ID = "UA-297279994-1";
+  ReactGa.initialize(TRACKING_ID);
 
   useEffect(() => {
     const timer = setTimeout(() => {
@@ -27,6 +31,10 @@ function App() {
 
     return () => clearTimeout(timer);
   }, []);
+
+  useEffect(() => {
+    ReactGa.pageview(window.location + window.location.search);
+  }, [])
 
   return (
     <Router>
