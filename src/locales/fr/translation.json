@@ -21,6 +21,11 @@
     "findMeText": "RETROUVEZ-MOI SUR",
     "feelFreeText": "N'hésitez pas à <1>me contacter</1>",
     "creditsText": "Conçu et développé par Soumyajit Behera, modifié par Rabie Toaba.",
-    "bookText": "Prenez rendez-vous"
-
+    "bookText": "Prenez rendez-vous",
+    "aristotleQuote": "Nous sommes ce que nous faisons de manière répétée. L'excellence, alors, n'est pas un acte, mais une habitude.",
+    "shutItDescription": "Un petit projet qui me permet d'éteindre mon ordinateur depuis mon téléphone.",
+    "athenaDescription": "Un projet académique qui permet aux propriétaires de supermarchés et de fermes de suivre en temps réel la localisation, la température et l'humidité à l'intérieur des camions transportant leurs matériaux. Construit sur Android natif, Arduino et JQuery.",
+    "exdDescription": "Un projet commercial pour l'agence de communication Extra Design. Construit sur React.js et Firebase.",
+    "sachevDescription": "Un projet commercial pour l'association médicale SACHEV. Construit sur Wordpress et Webflow.",
+    "madrasaticDescription": "Une plateforme universitaire utilisée pour résoudre les problèmes survenant sur le campus en améliorant le pipeline de communication entre les membres du personnel universitaire et les équipes. Construite sur Laravel, React Native et Postgres."
 }

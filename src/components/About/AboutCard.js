@@ -20,10 +20,10 @@ function AboutCard() {
             </Trans>
           </p>
 
-          <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+          <p>
+            "{t('aristotleQuote')}"{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Aristotle</footer>
         </blockquote>
       </Card.Body>
     </Card>

@@ -22,5 +22,11 @@
     "findMeText": "FIND ME ON",
     "feelFreeText": "Feel free to <1>connect</1> with me",
     "creditsText": "Designed and Developed by Soumyajit Behera, modified by Rabie Toaba.",
-    "bookText": "Book an appointment"
+    "bookText": "Book an appointment",
+    "aristotleQuote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+    "madrasaticDescription": "A university platform used to solve problems that occur within campus by improving the communication pipeline between university staff members and teams. Built on Laravel, React Native and Postgres.",
+    "shutItDescription": "A small project that allows me to shut down my computer from my phone.",
+    "athenaDescription": "An academic project that allows supermarket and farm owners to follow in real time the location, the temperature and the humidity inside the trucks transporting their materials. Built on native Android, Arduino and JQuery.",
+    "exdDescription": "A commercial project for communication agency Extra Design. Built on React.js and Firebase.",
+    "sachevDescription": "A commercial project for medical association SACHEV. Built on Wordpress and Webflow."
 }
