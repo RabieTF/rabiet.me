@@ -280,6 +280,16 @@ button:focus {
   padding-left: 45px !important;
 }
 
+.call-to-action {
+  text-decoration: none; 
+  text-align: left;
+}
+
+.call-to-action:hover {
+  text-decoration: underline !important; 
+}
+
+
 .main-name {
   color: #5f88f8;
 }

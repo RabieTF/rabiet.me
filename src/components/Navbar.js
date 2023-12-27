@@ -8,6 +8,7 @@ import {
   AiOutlineHome,
   AiOutlineFundProjectionScreen,
   AiOutlineUser,
+  AiOutlineCalendar,
 } from "react-icons/ai";
 import { CgFileDocument } from "react-icons/cg";
 import { useTranslation } from "react-i18next";
@@ -95,6 +96,16 @@ function NavBar() {
                 <CgFileDocument style={{ marginBottom: "2px" }} /> {t('resumeLink')}
               </Nav.Link>
             </Nav.Item>
+
+            <Nav.Item>
+              <Nav.Link
+                href="https://facebook.com"
+                target="_blank"
+              >
+                <AiOutlineCalendar style={{ marginBottom: "2px" }}/>{" "} {t('bookText')}
+              </Nav.Link>
+            </Nav.Item>
+
 
             <Nav.Item>
               <Nav.Link
