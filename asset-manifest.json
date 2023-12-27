@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ed03ad58.css",
+    "main.js": "/static/js/main.40c66365.js",
+    "static/js/415.fb51c11d.chunk.js": "/static/js/415.fb51c11d.chunk.js",
+    "static/js/787.35dd0f9c.chunk.js": "/static/js/787.35dd0f9c.chunk.js",
+    "static/media/exd.svg": "/static/media/exd.eba9119eb601962028de46267d1fb3be.svg",
+    "static/media/Resume.pdf": "/static/media/Resume.1fa4728b4c9a1091394e.pdf",
+    "static/media/avatar.png": "/static/media/avatar.175cb8f86ac0a519d25e.png",
+    "static/media/sachev.png": "/static/media/sachev.250191ccaa09e0609ad0.png",
+    "static/media/madrasatic.png": "/static/media/madrasatic.440111ce04c9a1876d58.png",
+    "static/media/home-main.png": "/static/media/home-main.ca60ef20245ce7dee69e.png",
+    "static/media/about.png": "/static/media/about.2b8118088b07ea4249bb.png",
+    "static/media/shutit.jpg": "/static/media/shutit.3f1f870e8b6666cbb0ed.jpg",
+    "static/media/athena.jpg": "/static/media/athena.88c9d428bb67103a333a.jpg",
+    "static/media/home-bg1.png": "/static/media/home-bg1.f967b03ca921b0861198.png",
+    "static/media/pre.svg": "/static/media/pre.216977426e27a3d44a16.svg",
+    "index.html": "/index.html",
+    "main.ed03ad58.css.map": "/static/css/main.ed03ad58.css.map",
+    "main.40c66365.js.map": "/static/js/main.40c66365.js.map",
+    "415.fb51c11d.chunk.js.map": "/static/js/415.fb51c11d.chunk.js.map",
+    "787.35dd0f9c.chunk.js.map": "/static/js/787.35dd0f9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed03ad58.css",
+    "static/js/main.40c66365.js"
+  ]
+}
