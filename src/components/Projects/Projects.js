@@ -33,7 +33,6 @@ function Projects() {
               title="Madrasatic"
               description={t('madrasaticDescription')}
               ghLink="https://github.com/MadrasaTic"
-              demoLink="https://chatify-49.web.app/"
             />
           </Col>
           <Col md={4} className="project-card">
